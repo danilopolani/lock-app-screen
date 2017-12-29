@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="locked_button">Bloccato</string>
+    <string name="tap_to_lock">Tocca per bloccare</string>
+    <string name="tap_to_unlock">Tocca per sbloccare</string>
+    <string name="loaded">Lock App Screen caricata</string>
+</resources>
